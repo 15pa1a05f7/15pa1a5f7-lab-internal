@@ -1,0 +1,35 @@
+
+body
+{
+	font-size: 15px;
+	text-align:center;
+	background:#F8F8FF;
+}
+h2
+{
+	text-align: center;
+	margin:40px auto 0px;
+	color:white;
+	background:#5F9EA0;
+	border:1px solid #B0C4DE;
+	border-bottom:none;
+	border-radius:50px,50px,0px,0px;
+	padding:15px;
+	
+}
+form
+{
+	text-align: center;
+	width:30%;
+	margin:0px auto;
+	padding:20px 20px;
+	border:1px solid #B0C4DE;
+	background:white;
+	border-radius:0px 0px 10px 10px;
+}s
+.text
+{
+  width:200px; 
+}
+
+
